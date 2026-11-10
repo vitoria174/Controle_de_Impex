@@ -19,26 +19,6 @@ Versionamento: Git e GitHub
 -Autenticação de usuários
 -Validação de dados
 
-📂 Estrutura do projeto
-
-nome-do-projeto/
-│
-├── controller/
-│   └── ...
-│
-├── model/
-│   └── ...
-│
-├── database/
-│   └── ...
-│
-├── tests/
-│   └── ...
-│
-├── main.py
-├── requirements.txt
-└── README.md
-
 💻 Como executar o projeto
 
 1. Clone o repositório
